@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arun Kanaujia from Ghaziabad, UP, India @A-Kumar23
+- 👋 Hi, I’m Arun Kanaujia from Ghaziabad, UP, India @arunkanaujia23
 - 👀 I’m interested in working on new tasks and learn from everthing
 - 🌱 I’m currently working as Web Developer
 - 📫 How to reach me arunkanaujia23@gmail.com
