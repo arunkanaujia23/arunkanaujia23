@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arun Kanaujia from Ghaziabad, UP, India @arunkanaujia23
-- 👀 I’m interested in working on new tasks and learn from everthing
-- 🌱 I’m currently working as Web Developer
+- 👀 I’m interested in working on new tasks and learning from everthing
+- 🌱 I’m currently working as UI Developer and Designer
 - 📫 How to reach me arunkanaujia23@gmail.com
 - 💼 My Graphics design portfolios https://drive.google.com/drive/folders/1Q0BLlOe90-Gs1FGR3YVf2EX0Sdtrivbr?usp=sharing
 <!---
