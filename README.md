@@ -2,7 +2,6 @@
 - 👀 I’m interested in working on new tasks and learning from everything
 - 🌱 I’m currently working as a UI Developer and Designer
 - 📫 How to reach me arunkanaujia23@gmail.com
--
 - 💼 Graphics [Portfolio Link](https://drive.google.com/drive/u/2/folders/1Q0BLlOe90-Gs1FGR3YVf2EX0Sdtrivbr)
 - 🎨 Artwork [Portfolio Link](https://www.instagram.com/hybrid_creation_/)
 - 📱 UI [Figma Link](https://www.figma.com/file/I9ifco43PHo1qyek6SIhnl/Portfolio?type=design&node-id=0%3A1&mode=design&t=4vCUDVx7oAUdanmQ-1) 
